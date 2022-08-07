@@ -1,6 +1,7 @@
 # adachi_capture
 
 A new Flutter project.
+"hollo world"
 
 ## Getting Started
 
